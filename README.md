@@ -46,10 +46,10 @@ Soutenance      : 6 mai 2026
 
 ÉQUIPE
 -------
-  - Lyes         — Chef de projet
-  - Abderahim    — Analyste fonctionnel
-  - Karim Mahtout — Responsable technique
-  - Hassan       — Responsable planification & risques
+  - Lyes DJEMAA         — Chef de projet
+  - Abderrahim GHRIS    — Analyste fonctionnel
+  - Karim Mahtout       — Responsable technique
+  - Hassan CHARAF       — Responsable planification & risques
 
 
 CONTENU DU DÉPÔT
